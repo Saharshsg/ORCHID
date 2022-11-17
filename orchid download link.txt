@@ -1,0 +1,17 @@
+***Because the project was to large to upload(max size allowed on github is 25mb), it was uploaded on Google Drive***
+
+google drive link for ORCHID Ecommerce website: 
+https://drive.google.com/file/d/1KGa4N9MNwaUPEyTCAwiG8C5ltvK7mZ6M/view?usp=share_link
+
+Installation steps:
+Install Git Version Control [ https://git-scm.com/]
+
+Install Python Latest Version [ https://www.python.org/downloads/]
+
+Install Pip (Package Manager) [ https://pip.pypa.io/en/stable/installing/]
+
+Open terminal change it to gitbash and type the following commands:
+$ source test/scripts/activate
+$ cd ecomwebsite
+$ cd orchid
+$ python manage.py runserver
